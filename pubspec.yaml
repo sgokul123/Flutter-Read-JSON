@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts: ^2.1.0
   simple_html_css: ^3.0.1
+  flip_card: ^0.4.4
 
 dev_dependencies:
   flutter_test:

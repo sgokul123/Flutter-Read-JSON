@@ -9,6 +9,8 @@ class CommonUI {
           borderRadius: BorderRadius.circular(10.0),
         ),
         child: Container(
+          height: 200,
+          width: MediaQuery.of(context).size.width,
           padding: EdgeInsets.all(5.5),
           child: Column(
             mainAxisSize: MainAxisSize.min,
